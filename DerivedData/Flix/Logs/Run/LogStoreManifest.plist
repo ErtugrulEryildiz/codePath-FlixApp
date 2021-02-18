@@ -6,6 +6,74 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>016951F1-35ED-4129-A435-5E5A7D473E7F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>016951F1-35ED-4129-A435-5E5A7D473E7F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flix</string>
+			<key>timeStartedRecording</key>
+			<real>635367106.32074499</real>
+			<key>timeStoppedRecording</key>
+			<real>635367359.82098401</real>
+			<key>title</key>
+			<string>Run Flix</string>
+			<key>uniqueIdentifier</key>
+			<string>016951F1-35ED-4129-A435-5E5A7D473E7F</string>
+		</dict>
+		<key>183050A5-4D44-4FB8-B548-E12072F6CC35</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>183050A5-4D44-4FB8-B548-E12072F6CC35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flix</string>
+			<key>timeStartedRecording</key>
+			<real>635364891.35491502</real>
+			<key>timeStoppedRecording</key>
+			<real>635364959.33733904</real>
+			<key>title</key>
+			<string>Run Flix</string>
+			<key>uniqueIdentifier</key>
+			<string>183050A5-4D44-4FB8-B548-E12072F6CC35</string>
+		</dict>
 		<key>3371467D-64C7-406B-B4EA-353FD3D6B014</key>
 		<dict>
 			<key>className</key>
@@ -40,7 +108,7 @@
 			<key>uniqueIdentifier</key>
 			<string>3371467D-64C7-406B-B4EA-353FD3D6B014</string>
 		</dict>
-		<key>971C94BF-1E32-4E8B-BE66-2BB3197854B2</key>
+		<key>3F96EC11-C197-4B2C-B58E-371BE0EC7D58</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>971C94BF-1E32-4E8B-BE66-2BB3197854B2.xcactivitylog</string>
+			<string>3F96EC11-C197-4B2C-B58E-371BE0EC7D58.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +134,149 @@
 			<key>signature</key>
 			<string>Run Flix</string>
 			<key>timeStartedRecording</key>
-			<real>635198871.64465594</real>
+			<real>635367965.75025105</real>
 			<key>timeStoppedRecording</key>
-			<real>635199009.54161799</real>
+			<real>635368296.60634303</real>
 			<key>title</key>
 			<string>Run Flix</string>
 			<key>uniqueIdentifier</key>
-			<string>971C94BF-1E32-4E8B-BE66-2BB3197854B2</string>
+			<string>3F96EC11-C197-4B2C-B58E-371BE0EC7D58</string>
+		</dict>
+		<key>43E664D3-D194-49D0-8048-80EB52235006</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>43E664D3-D194-49D0-8048-80EB52235006.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flix</string>
+			<key>timeStartedRecording</key>
+			<real>635367905.32523596</real>
+			<key>timeStoppedRecording</key>
+			<real>635367965.03492105</real>
+			<key>title</key>
+			<string>Run Flix</string>
+			<key>uniqueIdentifier</key>
+			<string>43E664D3-D194-49D0-8048-80EB52235006</string>
+		</dict>
+		<key>7030B677-9B4C-4D60-80C7-18BF6747863E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7030B677-9B4C-4D60-80C7-18BF6747863E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flix</string>
+			<key>timeStartedRecording</key>
+			<real>635367365.49228799</real>
+			<key>timeStoppedRecording</key>
+			<real>635367672.48522401</real>
+			<key>title</key>
+			<string>Run Flix</string>
+			<key>uniqueIdentifier</key>
+			<string>7030B677-9B4C-4D60-80C7-18BF6747863E</string>
+		</dict>
+		<key>C85062BE-9E80-4222-83F6-82288A55ADBA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C85062BE-9E80-4222-83F6-82288A55ADBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flix</string>
+			<key>timeStartedRecording</key>
+			<real>635368343.19793999</real>
+			<key>timeStoppedRecording</key>
+			<real>635368364.55833697</real>
+			<key>title</key>
+			<string>Run Flix</string>
+			<key>uniqueIdentifier</key>
+			<string>C85062BE-9E80-4222-83F6-82288A55ADBA</string>
+		</dict>
+		<key>D7E6F526-548C-4571-81DF-560BF8A3B97A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D7E6F526-548C-4571-81DF-560BF8A3B97A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flix</string>
+			<key>timeStartedRecording</key>
+			<real>635367676.92318594</real>
+			<key>timeStoppedRecording</key>
+			<real>635367901.332479</real>
+			<key>title</key>
+			<string>Run Flix</string>
+			<key>uniqueIdentifier</key>
+			<string>D7E6F526-548C-4571-81DF-560BF8A3B97A</string>
 		</dict>
 	</dict>
 </dict>

@@ -66,4 +66,21 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
 
         return cell
     }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // Get the new view controller using seque.destionation.
+        // Pass the selected object to the new view controller.
+            
+        let cell = sender as! UITableViewCell
+        let indexPath = TableView.indexPath(for: cell)!
+        let movie = movies[indexPath.row]
+        
+        let movieDetailsViewController = segue.destination as! MovieDetailsViewController
+        
+        movieDetailsViewController.movie = movie
+        
+        TableView.deselectRow(at: indexPath, animated: true)
+        
+        
+    }
 }
